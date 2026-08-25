@@ -4,7 +4,9 @@
 
 ### AI-first engineering systems for dependable delivery
 
-Shenzhen, China · Building tools, workflows, and knowledge systems that turn AI capability into repeatable engineering outcomes.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07111F,55:123766,100:2F7DF6&height=210&section=header&text=AI-First%20Engineering&fontSize=46&fontColor=F8FAFC&animation=fadeIn" alt="Abstract AI-first engineering systems visual" width="100%" />
+
+Building tools, workflows, and knowledge systems that turn AI capability into repeatable engineering outcomes.
 
 [![GitHub](https://img.shields.io/badge/GitHub-sunrain520-181717?logo=github&logoColor=white)](https://github.com/sunrain520)
 [![Follow](https://img.shields.io/github/followers/sunrain520?label=Follow&style=flat&logo=github)](https://github.com/sunrain520)
@@ -17,7 +19,7 @@ Shenzhen, China · Building tools, workflows, and knowledge systems that turn AI
 
 - **AI-first engineering**: move people from manually driving each step to designing goals, workflows, gates, authority, and evidence.
 - **Specification-driven delivery**: turn intent into executable contracts, verification, and maintainable operating systems.
-- **Knowledge systems**: make decisions, context, and learned patterns durable enough for people and agents to reuse.
+- **Evidence-led knowledge systems**: make decisions, context, and learned patterns durable enough for people and agents to verify and reuse.
 
 ## Selected Work
 
