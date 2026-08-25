@@ -29,6 +29,14 @@ Building tools, workflows, and knowledge systems that turn AI capability into re
 | **leo-ppt-generator** | A local Skill and runtime for governed image-based and editable PowerPoint generation. | [Repository](https://github.com/sunrain520/leo-ppt-generator) |
 | **TwinMind** | A living memory system for a digital twin that can preserve, retrieve, and evolve working context. | [Repository](https://github.com/sunrain520/TwinMind) |
 
+## Public Channel
+
+<div align="center">
+  <img src="assets/wechat-official-account-qr.jpg" width="180" alt="微信公众号二维码" />
+  <br />
+  扫码关注公众号，获取公开的 AI 工程与知识系统内容。
+</div>
+
 ## How I Work
 
 ```text
