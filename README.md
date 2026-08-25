@@ -8,6 +8,8 @@
 
 Building tools, workflows, and knowledge systems that turn AI capability into repeatable engineering outcomes.
 
+以 AI First、规格驱动与证据闭环，构建可持续演进的研发工作系统。
+
 [![GitHub](https://img.shields.io/badge/GitHub-sunrain520-181717?logo=github&logoColor=white)](https://github.com/sunrain520)
 [![Follow](https://img.shields.io/github/followers/sunrain520?label=Follow&style=flat&logo=github)](https://github.com/sunrain520)
 
@@ -25,17 +27,9 @@ Building tools, workflows, and knowledge systems that turn AI capability into re
 
 | Project | What it is | Explore |
 | --- | --- | --- |
-| **spec-first** | A specification-first workflow for building and validating software with AI agents. | [Repository](https://github.com/sunrain520/spec-first) |
-| **leo-ppt-generator** | A local Skill and runtime for governed image-based and editable PowerPoint generation. | [Repository](https://github.com/sunrain520/leo-ppt-generator) |
-| **TwinMind** | A living memory system for a digital twin that can preserve, retrieve, and evolve working context. | [Repository](https://github.com/sunrain520/TwinMind) |
-
-## Public Channel
-
-<div align="center">
-  <img src="assets/wechat-official-account-qr.jpg" width="180" alt="微信公众号二维码" />
-  <br />
-  扫码关注公众号，获取公开的 AI 工程与知识系统内容。
-</div>
+| **spec-first**<br />规格优先工程 | A specification-first workflow for building and validating software with AI agents. | [Repository](https://github.com/sunrain520/spec-first) |
+| **leo-ppt-generator**<br />受控演示文稿生成 | A local Skill and runtime for governed image-based and editable PowerPoint generation. | [Repository](https://github.com/sunrain520/leo-ppt-generator) |
+| **TwinMind**<br />数字分身记忆系统 | A living memory system for a digital twin that can preserve, retrieve, and evolve working context. | [Repository](https://github.com/sunrain520/TwinMind) |
 
 ## How I Work
 
@@ -61,5 +55,11 @@ I care about the difference between an output that exists and a result that can 
 <div align="center">
 
 Open to thoughtful conversations about AI engineering, developer workflows, and systems that make good work compound.
+
+<br /><br />
+
+<img src="assets/wechat-official-account-qr.jpg" width="180" alt="微信公众号二维码" />
+
+扫码关注公众号，获取公开的 AI 工程与知识系统内容。
 
 </div>
